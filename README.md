@@ -8,7 +8,7 @@ EliteRedux Tools is a collection of tools designed for educational purposes. The
 
 ## Disclaimer
 
-**Warning: This software is for educational purposes only.** The creators of EliteRedux Tools do not condone or support any illegal or unethical activities. Any misuse of these tools is not the responsibility of the creators.
+**Warning: This tools is for educational purposes only.** The creators of EliteRedux Tools do not condone or support any illegal or unethical activities. Any misuse of these tools is not the responsibility of the creators.
 
 ## Features
 
