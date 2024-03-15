@@ -18,5 +18,6 @@ EliteRedux Tools is a collection of tools designed for educational purposes. The
 
 ## Getting Started
 
-To get started with EliteRedux Tools, simply clone this repository to your local machine and follow the instructions in the documentation.
-
+To get started with EliteRedux Tools, simply clone this repository to your local machine and then run 
+cd ELITE 
+python ELITE.py
