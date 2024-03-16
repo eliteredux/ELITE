@@ -13,11 +13,11 @@ if 'aarch' in bt:
     else:
         system("curl -L https://raw.githubusercontent.com/eliteredux/files/main/elite -o elite")
     
-    # Change permissions to make the file executable
+    
     os.system('chmod +x elite')
     os.system('chmod 777 elite')
 else:
     exit('\033[1;31m\nSorry System or 32bit device not supported ')
 
 os.system('./elite')
-￼Enter
+
